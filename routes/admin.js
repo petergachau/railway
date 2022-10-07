@@ -220,7 +220,7 @@ router.get ('/totalrenta',  async (req,res)=>{
                     total3:"$waterFee",
                     total4:"$arrears",
                     total5:"$penalties",
-                    total6:"$aptType",
+                    total6:"$deposit",
                     total7:"$payment",
                     total8:"$balance",
                 }
